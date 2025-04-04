@@ -24,10 +24,8 @@ I invite you to explore my GitHub repository, [jbtallgrass](https://github.com/J
 
 ## Applied Machine Learning Midterm Project: Classification Analysis
 
-### Jason Ballard
-
-#### Basehor, Kansas (CDT)
-
+### Jason Ballard  
+#### Basehor, Kansas (CDT)  
 #### April 6, 2025  
 
 > 📁 Submission: GitHub Repository with Jupyter Notebook and Peer Review  
@@ -36,21 +34,22 @@ I invite you to explore my GitHub repository, [jbtallgrass](https://github.com/J
 
 ## 📚 Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Dataset Used](#-dataset-used)
-- [Project Findings](#-project-findings)
-- [Goals](#-goals)
-- [Data Source](#-data-source)
-- [Technologies Used](#-technologies-used)
-- [Key Features](#-key-features)
-- [Setup & Requirements](#-️-setup--requirements)
-- [Project Structure](#-project-structure)
-- [Final Overview: The Full Data Flow](#-final-overview-the-full-data-flow)
-- [Submission Checklist](#-submission-checklist)
-- [Links](#-links)
+- [Project Overview](#project-overview)
+- [Dataset Used](#dataset-used)
+- [Project Findings](#project-findings)
+- [Goals](#goals)
+- [Data Source](#data-source)
+- [Technologies Used](#technologies-used)
+- [Key Features](#key-features)
+- [Setup and Requirements](#setup-and-requirements)
+- [Project Structure](#project-structure)
+- [Final Overview: The Full Data Flow](#final-overview-the-full-data-flow)
+- [Submission Checklist](#submission-checklist)
+- [Links](#links)
 
+---
 
-## 📌 Project Overview
+## Project Overview
 
 Organizations frequently need to classify data to support decision-making.
 For example, a healthcare provider may want to predict whether a patient has a specific condition based on lab results,
@@ -68,20 +67,20 @@ This project demonstrates the ability to apply classification modeling technique
 
 ---
 
-## 📌 Dataset Used
+## Dataset Used
 
 **Mushroom Classification Dataset** (Predict whether a mushroom is edible or poisonous based on characteristics)  
 🔗 [UCI Mushroom Dataset](https://archive.ics.uci.edu/ml/datasets/mushroom)
 
 ---
 
-## 🔍 Project Findings
+## Project Findings
 
 Please refer to the detailed [Reflections.md](Reflections.md) for section-based insights, observations, and reflections captured throughout the modeling process.
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Develop a robust classification pipeline
 - Evaluate model performance using multiple metrics
@@ -89,14 +88,14 @@ Please refer to the detailed [Reflections.md](Reflections.md) for section-based 
 
 ---
 
-### 🧩 Data Source
+## Data Source
 
 - **Dataset**: Mushroom Classification Dataset  
 - **Link**: [UCI Repository](https://archive.ics.uci.edu/ml/datasets/mushroom)
 
 ---
 
-### ⚙️ Technologies Used
+## Technologies Used
 
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Jupyter Notebook
@@ -104,7 +103,7 @@ Please refer to the detailed [Reflections.md](Reflections.md) for section-based 
 
 ---
 
-### 📌 Key Features
+## Key Features
 
 - End-to-end ML workflow
 - Label encoding for categorical data
@@ -114,7 +113,7 @@ Please refer to the detailed [Reflections.md](Reflections.md) for section-based 
 
 ---
 
-## 🛠️ Setup & Requirements
+## Setup and Requirements
 
 1. Clone the repository
 2. Set up a virtual environment  
@@ -123,7 +122,7 @@ Please refer to the detailed [Reflections.md](Reflections.md) for section-based 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 ├── data/                           # Dataset folder
@@ -136,7 +135,7 @@ Please refer to the detailed [Reflections.md](Reflections.md) for section-based 
 
 ---
 
-## 📊 Final Overview: The Full Data Flow
+## Final Overview: The Full Data Flow
 
 ### Assignment Requirements
 
@@ -151,9 +150,9 @@ Please refer to the detailed [Reflections.md](Reflections.md) for section-based 
 
 ---
 
-## ✅ Submission Checklist
+## Submission Checklist
 
-- [x] Jupyter Notebook: `ml-04-midterm-jbalalrd.ipynb`
+- [x] Jupyter Notebook: `ml-04-midterm-jballard.ipynb`
 - [x] Reflections: `Reflections.md`
 - [x] README: This file
 - [x] Dataset in `data/` folder
@@ -161,10 +160,8 @@ Please refer to the detailed [Reflections.md](Reflections.md) for section-based 
 
 ---
 
-## 🔗 Links
+## Links
 
 - 📘 [Notebook Preview](ml-04-midterm-jballard.ipynb)  
 - ✍️ [Reflections (Markdown)](Reflections.md)  
 - 🧑‍🤝‍🧑 [Peer Review](peer_review.md)
-
----
