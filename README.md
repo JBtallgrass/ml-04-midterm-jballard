@@ -38,7 +38,7 @@ Please don't hesitate to connect, collaborate, or reach out to me if our interes
 
 ## 📌 Project Overview
 
-Organizations frequently need to classify data to support decision-making. 
+Organizations frequently need to classify data to support decision-making.
 For example, a healthcare provider may want to predict whether a patient has a specific condition based on lab results,
 or a business may classify customer behavior to tailor marketing strategies.
 Machine learning classification models help automate these decisions by recognizing patterns in historical data.
@@ -225,8 +225,10 @@ This project demonstrates the ability to apply classification modeling technique
 ## README.md (Required)
 
 Include a professional README.md that introduces your project. Include:
+
 - a clickable link to your notebook file.
 - a clickable link to your peer review Markdown file.
+
 Instructions on setting up your virtual environment and running your notebook locally.
 
 ---
@@ -241,8 +243,8 @@ Review one other GitHub repository and provide feedback on:
 1. Reflection Quality (Are insights well thought out?)
 
 Submission: Please submit a short peer review document in your repository, titled peer_review.md.  
-The peer review must contain a **clickable Markdown link to the notebook (.ipynb) file reviewed** along with your personal, well-organized and presented 4-point review. 
-Provide specific feedback - both positive and constructive. 
+The peer review must contain a **clickable Markdown link to the notebook (.ipynb) file reviewed** along with your personal, well-organized and presented 4-point review.
+Provide specific feedback - both positive and constructive.
 Suggest improvements where possible and explain why a different choice might be helpful as well.
 Focus on actionable suggestions that the author could realistically implement.
 
