@@ -24,8 +24,10 @@ I invite you to explore my GitHub repository, [jbtallgrass](https://github.com/J
 
 ## Applied Machine Learning Midterm Project: Classification Analysis
 
-### Jason Ballard  
-#### Basehor, Kansas (CDT)  
+### Jason Ballard
+
+#### Basehor, Kansas (CDT)
+
 #### April 6, 2025  
 
 > 📁 Submission: GitHub Repository with Jupyter Notebook and Peer Review  
@@ -76,7 +78,7 @@ This project demonstrates the ability to apply classification modeling technique
 
 ## Project Findings
 
-Please refer to the detailed [Reflections.md](Reflections.md) for section-based insights, observations, and reflections captured throughout the modeling process.
+Please refer to the detailed [Reflections.md](reflections.md) for section-based insights, observations, and reflections captured throughout the modeling process.
 
 ---
 
