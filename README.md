@@ -230,9 +230,8 @@ If more time were available, future extensions could include:
 ## Submission Checklist
 
 - [x] Jupyter Notebook: `ml-04-midterm-jballard.ipynb`
-- [x] Reflections: `Reflections.md`
+- [x] Reflections: `reflections.md`
 - [x] README: This file
-- [x] Dataset in `data/` folder
 - [x] Peer Review: `peer_review.md`
 
 ---
@@ -240,7 +239,7 @@ If more time were available, future extensions could include:
 ## Links
 
 - 📘 [Notebook Preview](ml-04-midterm-jballard.ipynb)  
-- ✍️ [Reflections (Markdown)](Reflections.md)  
+- ✍️ [Reflections (Markdown)](reflections.md)  
 - 🧑‍🤝‍🧑 [Peer Review](peer_review.md)
 
 ⭐ Document completed by Jason Ballard
