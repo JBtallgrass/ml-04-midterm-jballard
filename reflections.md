@@ -65,6 +65,14 @@ The engineered `odor_gill` feature became the most important overall.
 
 ## ✅ Section 4: Primary Model – Decision Tree
 
+### Decision Tree Structure
+
+![Decision Tree](images/decision_tree.png)
+
+### Confusion Matrix – Decision Tree
+
+![Confusion Matrix](images/confusion_matrix.png)
+
 - **_How well did the model perform?_**  
   The Decision Tree model, which served as the primary evaluation model, performed extremely well. It achieved **100% accuracy, precision, recall, and F1-score** on the test set. This reflects the high quality of the feature set—particularly **odor** and the engineered **odor_gill**—which were highly predictive. The model demonstrated excellent generalization ability from training to test data.
 

@@ -74,11 +74,9 @@ This project demonstrates the ability to apply classification modeling technique
 **Mushroom Classification Dataset** (Predict whether a mushroom is edible or poisonous based on characteristics)  
 🔗 [UCI Mushroom Dataset](https://archive.ics.uci.edu/ml/datasets/mushroom)
 
----
+![Class Distribution](images/class_distribution.png)
 
 ## Project Findings
-
-Absolutely! Here's a clean, professional summary of your findings across the entire **Applied Machine Learning Midterm Project: Mushroom Classification**, based on everything you've done and reflected on:
 
 ---
 
@@ -98,6 +96,8 @@ This project explored the application of machine learning classification techniq
 
 #### 📊 **Exploratory Analysis**
 
+![Top 10 Important Features](images/Top_10_features.png)
+
 - Features like **odor**, **spore-print-color**, and **gill-color** showed strong class separation.
 - An engineered interaction feature, **`odor_gill`**, combining odor and gill color, was created and turned out to be the **most influential** predictor.
 - A **scatter matrix and feature importance plot** helped visualize top predictors.
@@ -115,6 +115,9 @@ This project explored the application of machine learning classification techniq
   - A **Random Forest Classifier** (alternative model)
 
 #### 📈 **Model Evaluation**
+
+![Confusion Matrix](images/confusion_matrix.png)
+![Decision Tree](images/decision_tree.png)
 
 - The **Decision Tree** achieved over **99%** across all metrics (accuracy, precision, recall, F1-score).
 - The **Random Forest** model achieved a perfect **100%** on all metrics.
@@ -185,7 +188,7 @@ If more time were available, future extensions could include:
 
 1. Clone the repository
 2. Set up a virtual environment  
-3. Run `pip install -r requirements.txt`  
+3. Run `pip install -r requirements.txt`  and `pip freeze > requirements.txt`
 4. Launch the Jupyter Notebook
 
 ---
