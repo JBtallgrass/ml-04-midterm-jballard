@@ -242,3 +242,6 @@ If more time were available, future extensions could include:
 - 📘 [Notebook Preview](ml-04-midterm-jballard.ipynb)  
 - ✍️ [Reflections (Markdown)](Reflections.md)  
 - 🧑‍🤝‍🧑 [Peer Review](peer_review.md)
+
+⭐ Document completed by Jason Ballard
+⭐ A GenAI assistant platform was used to proof, edit, and generate icons used in this document.

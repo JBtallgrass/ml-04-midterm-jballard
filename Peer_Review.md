@@ -1,13 +1,14 @@
-Your peer review is outstanding — clear, constructive, and professional. It reflects your expertise and attention to detail. Here are just a few optional touch-ups and markdown-ready formatting suggestions to make it even stronger if you plan to publish or submit it:
-
----
-
 # 🧑‍🤝‍🧑 Peer Review: Applied Machine Learning Midterm Project
 
 **Reviewer:** Jason A. Ballard  
 📍 **Date:** April 2025  
 📘 **Notebook Reviewed:** [Classification Project – Brittany Dowdle](https://github.com/Bdowdle4/ml-classification-dowdle/blob/main/classification_dowdle.ipynb)  
 👤 **Author Reviewed:** [Brittany Dowdle](https://github.com/Bdowdle4)
+
+---
+
+_This was very well done- and the suggestions were hard to determine_
+_JB_
 
 ---
 
@@ -29,7 +30,7 @@ The notebook is **well-organized and easy to follow**. Each section is clearly l
 The selected features are **clearly explained** and backed by a mix of domain knowledge and statistical reasoning. Including all original features in the initial run makes sense given their independent value. The creation of the `Kurtosis_Entropy` interaction feature shows good intuition, even if it didn’t boost performance.
 
 > ⭐ **Positive:** Good use of feature interaction to explore deeper patterns.  
-> 🛠 **Suggestion:** Consider testing additional interactions or running a feature importance plot to visualize impact.
+> 🛠 **Suggestion:** Consider testing additional interactions or running a feature importance plot to visualize impact. The author mentions this in **Section 6 Final Thoughts and Insights**
 
 ![Section 3](images\codeFeature_JupyterD.png)
 
@@ -52,19 +53,18 @@ The author implemented both a **Random Forest (primary)** and **Decision Tree (s
 
 ## ✅ 4. Reflection Quality
 
-The reflections were honest and insightful. You discussed technical decisions, performance interpretation, and even the surprise of extremely high accuracy (which is a good sign you critically evaluated results). You also shared a great reminder about **checking for duplicates to avoid data leakage** — excellent point.
+The reflections were honest and insightful. The author discussed technical decisions, performance interpretation, and even the surprise of extremely high accuracy (which is a good sign you critically evaluated results). agian the author shared insight  about **checking for duplicates to avoid data leakage** — excellent point.
 
-> ⭐ **Positive:** Thoughtful self-assessment and discussion of trade-offs.  
+> ⭐ **Positive:** Thoughtful self-assessment and discussion of trade-offs. Well done.
 > 🛠 **Suggestion:** Consider condensing a few repeated ideas for even stronger impact and flow.
 
 ---
 
 ## 📌 Summary
 
-This is a **high-quality, well-documented notebook** that demonstrates a solid understanding of classification modeling and evaluation. You addressed both the technical and analytical sides of the project, used helpful visualizations, and backed your decisions with reasoning. With minor enhancements—like model comparison visuals and more feature experimentation—this already excellent project could reach an even higher level.
+This is a **high-quality, well-documented notebook** that demonstrates a solid understanding of classification modeling and evaluation. The refelections addressed both the technical and analytical sides of the project, used helpful visualizations, and backed your decisions with reasoning. With minor enhancements—like model comparison visuals and more feature experimentation—this already excellent project could reach an even higher level.
 
-> ✅ **Final Verdict:** Well-done and insightful! Great work, Brittany.
+> ✅ **Final Verdict:** Well-done and insightful! Great work.
 
----
-
-Let me know if you'd like this exported as a `.md` or added to your repo in a peer-review folder!
+⭐ Review completed by Jason Ballard
+⭐ A GenAI assistant platform was used to proof, edit, and generate icons used in this document.
