@@ -34,6 +34,12 @@ I invite you to explore my GitHub repository, [jbtallgrass](https://github.com/J
 
 ---
 
+## **TL;DR:**
+
+This project uses Decision Tree and Random Forest classifiers to predict mushroom toxicity using UCI’s Mushroom dataset. With carefully selected features (including an engineered interaction feature), the models achieved near-perfect accuracy. Full ML pipeline, visualizations, and reflections included.
+
+---
+
 ## 📚 Table of Contents
 
 - [Project Overview](#project-overview)
