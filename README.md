@@ -71,7 +71,7 @@ This project demonstrates the ability to apply classification modeling technique
 - Train and evaluate a classification model.
 - Compare different classification approaches.
 - Document your work in a structured Jupyter Notebook.
-- Conduct a peer review of a classmate’s project.  ![Peer Review](peer_review.md)
+- Conduct a peer review of a classmate’s project. ![Peer Review](peer_review.md)
 
 ---
 
